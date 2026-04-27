@@ -1,9 +1,10 @@
-streamlit==1.56.0
-torch
-langchain-huggingface
+streamlit
+langchain
 langchain-community
+langchain-huggingface
+langchain-text-splitters
 pypdf
-docx2txt
 faiss-cpu
 transformers
 accelerate
+sentence-transformers
