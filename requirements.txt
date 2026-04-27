@@ -1,4 +1,9 @@
-streamlit
-tensorflow
-numpy
-pillow
+streamlit==1.56.0
+torch
+langchain-huggingface
+langchain-community
+pypdf
+docx2txt
+faiss-cpu
+transformers
+accelerate
